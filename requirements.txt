@@ -16,7 +16,3 @@ PyYAML
 pyasn1
 docutils
 Jinja2
-pytz
-MarkupSafe
-pycrypto
-rsa
